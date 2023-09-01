@@ -9,7 +9,8 @@ Esta aplicacion esta desearrollada en tres lenguajes de programacion: Pseint, Py
 # Opcion 2 = Juego del Ahorcado
   Este consiste en mostrar un dibujo representando a una persona que esta colgada; el usuario tiene 6 oportunidades ya que son las partes que conforman a dicha persona en el juego, con cada error; el usuario resta una parte al cuerpo; de igual forma, el usuario podra visualizar la palabra comodin, si el la ingresa; el programa le dara un enunciado que puede ayudarle a descifrar la palabra, si el usuario usa el comodin, en automatico desaparece de la vista.
   
-  Esta seria una forma de representarlo  
+  Esta seria una forma de representarlo 
+  
   --------------------------
   |            |
   |            O
