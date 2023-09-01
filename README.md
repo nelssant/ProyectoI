@@ -11,14 +11,14 @@ Esta aplicacion esta desearrollada en tres lenguajes de programacion: Pseint, Py
   
   Esta seria una forma de representarlo 
   
-  --------------------------
-  |            |
-  |            O
-  |           /|\  Comodin
-  |            |
-  |           / \
-  |
-  |
+  *--------------------------
+  *|            |
+  *|            O
+  *|           /|\  Comodin
+  *|            |
+  *|           / \
+  *|
+  *|
 # Instalacion:
   * Para poder ejecutarse la aplicacion; necesitaremos tener instaldo en la computadora Visual Studio Code y Pseint:
   * SI seleccionamos el archivo .py, necesitamos tener instalado VIsual Studio Code y el compilador de Python en Visual Studio Code; luego de ello podremos ejecutar el archivo .py
