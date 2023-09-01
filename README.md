@@ -13,6 +13,7 @@ Esta aplicacion esta desearrollada en tres lenguajes de programacion: Pseint, Py
   
 -*-*-*-*-*-*-*-*-*-*-*-*-*-*
 
+
 |            O            
 |            |            
 |           /|\  Comodin  
