@@ -11,7 +11,7 @@ Esta aplicacion esta desearrollada en tres lenguajes de programacion: Pseint, Py
   
   Esta seria una forma de representarlo 
   
-__________________________ 
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 |            O            
 |            |            
 |           /|\  Comodin  
